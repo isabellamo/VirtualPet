@@ -1,3 +1,10 @@
+// whale
+void setup() {
+  // change size of drawing on canvas
+  size(700,700);
+  background(95,180,235);
+}
+
 void draw() { // drawing code
   // top lip to back base of body
   fill(100, 155, 250);
